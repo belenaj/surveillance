@@ -10,8 +10,9 @@ The structure of the project is as follows:
 * pi_surveillance.py
 * conf.json
 * pyimagesearch
-  * __init__.py
-  *    |--- tempimage.py
+  * \_\_init\_\_.py
+  * tempimage.py
+
 
 To launch the program use:
 
