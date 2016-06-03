@@ -25,10 +25,10 @@ To launch the program use:
 
 # TO DO's
 
-[x] Creating project structure
-[x] Adding files
-[] Including changes
-[] Testing
+- [x] Creating project structure
+- [x] Adding files
+- [ ] Including changes
+- [ ] Testing
 
 # Notes
 The previous dropbox connection is removed.
