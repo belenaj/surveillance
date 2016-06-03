@@ -1,7 +1,5 @@
 # import the necessary packages
 from pyimagesearch.tempimage import TempImage
-#from dropbox.client import DropboxOAuth2FlowNoRedirect
-#from dropbox.client import DropboxClient
 from picamera.array import PiRGBArray
 from picamera import PiCamera
 import argparse
@@ -106,6 +104,8 @@ for f in camera.capture_continuous(rawCapture, format="bgr", use_video_port=True
 			# check to see if the number of frames with consistent motion is
 			# high enough
 			if motionCounter >= conf["min_motion_frames"]:
+				
+				# TODO HERE. NEW FUNCTIONALITIES HERE
 				# check to see if dropbox sohuld be used
 				if conf["use_dropbox"]:
 					# write the image to temporary file
