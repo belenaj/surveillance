@@ -19,16 +19,16 @@ To launch the program use:
 `python pi_surveillance.py --conf conf.json`
 
 
-# Features
+### Features
 * When it detects motion, it sends a notification/email
 * When motion is detected, the program starts storing/streaming video
 
-# TO DO's
+### TO DO's
 
 - [x] Creating project structure
 - [x] Adding files
 - [ ] Including changes
 - [ ] Testing
 
-# Notes
+###### Notes
 The previous dropbox connection is removed.
