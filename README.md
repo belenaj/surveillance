@@ -2,7 +2,7 @@
 This is a Surveillance Project for Raspberry Pi.
 
 Part of this source code is taken from:
-http://www.pyimagesearch.com/2015/06/01/home-surveillance-and-motion-detection-with-the-raspberry-pi-python-and-opencv/
+(http://www.pyimagesearch.com/2015/06/01/home-surveillance-and-motion-detection-with-the-raspberry-pi-python-and-opencv/)
 
 
 The structure of the project is as follows:
